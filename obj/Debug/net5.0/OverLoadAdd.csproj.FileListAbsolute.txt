@@ -1,0 +1,16 @@
+C:\Users\unnip\repos\OverLoadAdd\obj\Debug\net5.0\OverLoadAdd.csproj.AssemblyReference.cache
+C:\Users\unnip\repos\OverLoadAdd\obj\Debug\net5.0\OverLoadAdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unnip\repos\OverLoadAdd\obj\Debug\net5.0\OverLoadAdd.AssemblyInfoInputs.cache
+C:\Users\unnip\repos\OverLoadAdd\obj\Debug\net5.0\OverLoadAdd.AssemblyInfo.cs
+C:\Users\unnip\repos\OverLoadAdd\obj\Debug\net5.0\OverLoadAdd.csproj.CoreCompileInputs.cache
+C:\Users\unnip\repos\OverLoadAdd\bin\Debug\net5.0\OverLoadAdd.exe
+C:\Users\unnip\repos\OverLoadAdd\bin\Debug\net5.0\OverLoadAdd.deps.json
+C:\Users\unnip\repos\OverLoadAdd\bin\Debug\net5.0\OverLoadAdd.runtimeconfig.json
+C:\Users\unnip\repos\OverLoadAdd\bin\Debug\net5.0\OverLoadAdd.runtimeconfig.dev.json
+C:\Users\unnip\repos\OverLoadAdd\bin\Debug\net5.0\OverLoadAdd.dll
+C:\Users\unnip\repos\OverLoadAdd\bin\Debug\net5.0\ref\OverLoadAdd.dll
+C:\Users\unnip\repos\OverLoadAdd\bin\Debug\net5.0\OverLoadAdd.pdb
+C:\Users\unnip\repos\OverLoadAdd\obj\Debug\net5.0\OverLoadAdd.dll
+C:\Users\unnip\repos\OverLoadAdd\obj\Debug\net5.0\ref\OverLoadAdd.dll
+C:\Users\unnip\repos\OverLoadAdd\obj\Debug\net5.0\OverLoadAdd.pdb
+C:\Users\unnip\repos\OverLoadAdd\obj\Debug\net5.0\OverLoadAdd.genruntimeconfig.cache
